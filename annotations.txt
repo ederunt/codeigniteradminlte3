@@ -1,0 +1,5 @@
+# Parsley validation
+https://parsleyjs.org/
+
+# Insertar datos - codeigniter 3
+https://codeigniter.com/userguide3/database/query_builder.html#inserting-data
